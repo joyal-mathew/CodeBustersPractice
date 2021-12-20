@@ -1,0 +1,9 @@
+#content {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+}
